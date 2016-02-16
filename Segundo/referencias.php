@@ -17,7 +17,7 @@
 	  </tbody>
       <tbody>
         <tr align="center">
-          <td width="30%" height="30"><a href="Imagenes/home.ico"><img src="Imagenes/home.png" width="30" height="30" alt=""/></a></td>
+          <td width="30%"><a href="index.php"><img src="Imagenes/home.png" width="30" height="30" alt=""/></a></td>
           <td width="70%" height="10"><h3><a href="index.php">Inicio</a></h3></td>
         </tr>
         <tr align="center">
