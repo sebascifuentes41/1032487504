@@ -3,7 +3,7 @@
 <head>
 		<link type="text/css" rel="stylesheet" href="style.css"/>
 		<link href="style.css" rel="stylesheet" type="text/css">
-	<title> Hoja de Vida (C.V.) </title>
+	<title>Hoja de Vida</title>
 	</head>
 	<body>
 		<div id="header">
